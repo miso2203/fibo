@@ -1,5 +1,7 @@
 #피보나치 
 
+
+
 def fibo(num):
 	if num < 3:
 		return 1
